@@ -6,3 +6,5 @@ Quando o usuário acessar o projeto no endpoint /hello, ele deverá ver a mensag
 Para fazer a entrega do desafio, teria que gerar uma imagem docker da aplicação funcionando e a disponibilizar no Docker Hub.
 
 Quando alguém executar: docker run -p 3000:3000 seuuser/suaimagem, a aplicação deverá estar disponível na porta 3000.
+
+Docker Image: <a href="https://hub.docker.com/r/lyancampos/maratona_fullcycle_desafio02" target="blank">https://hub.docker.com/r/lyancampos/maratona_fullcycle_desafio02</a>

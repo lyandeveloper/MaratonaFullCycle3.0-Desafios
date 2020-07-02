@@ -8,3 +8,5 @@ Quando alguém acessasr atraveś do método get um json deve ser retornado no fo
 Neste desafio o desenvolvedor poderia escolher entre javascript, golang ou python e hospedar no cloud provider que quisesse.
 
 No meu caso escolhi javascript e hospedei na IBM Cloud.
+
+<a href="https://b3be58e0.us-south.apigw.appdomain.cloud/fullcyclesum/soma?a=2&b=2">https://b3be58e0.us-south.apigw.appdomain.cloud/fullcyclesum/soma?a=2&b=2</a>
