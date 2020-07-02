@@ -1,4 +1,4 @@
-# DESAFIO 02
+# DESAFIO 02 - Hello Full Cycle utilizando Buffalo
 
 Neste desafio consiste em criar uma página web com o conteúdo "Hello Full Cycle" utilizando a linguagem Golang e o framework Buffalo.
 Quando o usuário acessar o projeto no endpoint /hello, ele deverá ver a mensagem "Hello Full Cycle".

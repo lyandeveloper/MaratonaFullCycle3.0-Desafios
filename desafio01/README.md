@@ -1,4 +1,4 @@
-# DESAFIO 01
+# DESAFIO 01 - Hello Full Cycle utilizando Golang e Docker
 
 O primeiro desafio dessa maratona consistia em criar um "Hello Full Cycle" utilizando a linguagem Golang.
 Basicamente quando o arquivo compilado for executado, deverá ser exibido: Hello Full Cycle.

@@ -1,4 +1,4 @@
-# DESAFIO 03
+# DESAFIO 03 - Endpoint serverless que realiza uma operação de soma
 
 Neste desafio foi proposto criar um endpoint no formato: /soma?={numero}&b={numero}.
 
